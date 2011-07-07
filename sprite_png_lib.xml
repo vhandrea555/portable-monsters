@@ -1,0 +1,35 @@
+<movie width="640" height="512" framerate="30" version="9">
+<!-- <frame /> -->
+<frame name="start">
+<!-- <call object="Main" method="main" /> -->
+    <library>
+      <bitmap id="TileSheet" import="img/TileSheet.png" />
+      <bitmap id="BattleSprites" import="img/BattleSprites.png" />
+            <bitmap id="Menu" import="img/Menu.png" />
+      <bitmap id="Background" import="img/Background.png" />
+      <bitmap id="CardboardBackground" import="img/Cardboard_Background.png" />
+       <bitmap id="TextBackground" import="img/TextBackground.png" />
+       <bitmap id="RightClick" import="img/RightClick.png" />
+       <bitmap id="Keys" import="img/Keys.png" />
+       <bitmap id="XButton" import="img/MonoChromeX.png"/>
+      
+      <!--   buttons     -->
+      <bitmap id="StartGame" import="img/StartButton.png" />
+      <bitmap id="ContinueGame" import="img/ContinueGame.png" />
+      <bitmap id="Options" import="img/Options.png" />
+      <bitmap id="Bubble" import="img/Bubble.png" />
+      <bitmap id="ResetSavedData" import="img/ResetSavedData.png" />
+      <bitmap id="Instructions" import="img/Instructions.png" />
+      <bitmap id="MainMenu" import="img/MainMenu.png" />
+      <bitmap id="BackImage" import="img/Back.png" />
+      <bitmap id="GenericButton" import="img/button.png" />
+      <bitmap id="Prev" import="img/Prev.png" />
+      <bitmap id="Next" import="img/Next.png" />
+      <bitmap id="Volume" import="img/audio.png" />
+      <bitmap id="VolumeMuted" import="img/audioMute.png" />
+      <bitmap id="SoundEffects" import="img/BLAAM.png" />
+      <bitmap id="SoundEffectsMuted" import="img/BLAAMMute.png" />
+    </library>
+  </frame>
+</movie>
+
