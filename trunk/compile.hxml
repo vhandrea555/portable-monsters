@@ -1,0 +1,6 @@
+-swf test.swf 
+-swf-version 10
+-swf-lib sprite_png_lib.swf
+-cp src
+-main Main
+
